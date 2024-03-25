@@ -1,0 +1,13 @@
+C:\Users\anaca\source\repos\BazeDeDate\BazeDeDate\bin\Debug\BazeDeDate.exe.config
+C:\Users\anaca\source\repos\BazeDeDate\BazeDeDate\bin\Debug\BazeDeDate.exe
+C:\Users\anaca\source\repos\BazeDeDate\BazeDeDate\bin\Debug\BazeDeDate.pdb
+C:\Users\anaca\source\repos\BazeDeDate\BazeDeDate\bin\Debug\System.Data.SqlClient.dll
+C:\Users\anaca\source\repos\BazeDeDate\BazeDeDate\bin\Debug\System.Data.SqlClient.xml
+C:\Users\anaca\source\repos\BazeDeDate\BazeDeDate\obj\Debug\BazeDeDate.csproj.AssemblyReference.cache
+C:\Users\anaca\source\repos\BazeDeDate\BazeDeDate\obj\Debug\BazeDeDate.Form1.resources
+C:\Users\anaca\source\repos\BazeDeDate\BazeDeDate\obj\Debug\BazeDeDate.Properties.Resources.resources
+C:\Users\anaca\source\repos\BazeDeDate\BazeDeDate\obj\Debug\BazeDeDate.csproj.GenerateResource.cache
+C:\Users\anaca\source\repos\BazeDeDate\BazeDeDate\obj\Debug\BazeDeDate.csproj.CoreCompileInputs.cache
+C:\Users\anaca\source\repos\BazeDeDate\BazeDeDate\obj\Debug\BazeDeDate.csproj.CopyComplete
+C:\Users\anaca\source\repos\BazeDeDate\BazeDeDate\obj\Debug\BazeDeDate.exe
+C:\Users\anaca\source\repos\BazeDeDate\BazeDeDate\obj\Debug\BazeDeDate.pdb
